@@ -1,4 +1,6 @@
-import strutils, tables
+import
+  strutils,
+  tables
 
 type Token = string
 type Url = string

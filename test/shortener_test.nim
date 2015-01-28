@@ -1,4 +1,6 @@
-import unittest, shortener
+import
+  shortener,
+  unittest
 
 const url = "http://justincampbell.me"
 
