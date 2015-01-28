@@ -6,4 +6,4 @@ description   = "URL Shortener"
 license       = "BSD"
 
 [Deps]
-Requires: "nim >= 0.10.0"
+Requires: "nim >= 0.10.0, jester"
