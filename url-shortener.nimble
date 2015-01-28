@@ -1,8 +1,8 @@
 [Package]
 name          = "url-shortener"
 version       = "0.1.0"
-author        = "Anonymous"
-description   = "New Nimble project for Nim"
+author        = "Justin Campbell"
+description   = "URL Shortener"
 license       = "BSD"
 
 [Deps]
